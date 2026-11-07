@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou Vytor Korea 👋
 
-<!--
-**VytorKorea/VytorKorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) — 2º período.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Web em formação, com muita vontade de aprender e crescer na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- Estou iniciando minha jornada na programação.
+- Estudando desenvolvimento Front-End.
+- Aprendendo a criar páginas e aplicações web.
+- Buscando minha primeira oportunidade na área de tecnologia.
+
+## 🛠️ Tecnologias em aprendizado
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📚 Atualmente
+
+Estou desenvolvendo meus primeiros projetos durante as aulas e praticando meus conhecimentos em desenvolvimento web.
+
+## 🎯 Meu objetivo
+
+Conquistar minha primeira oportunidade na área de tecnologia e continuar evoluindo como desenvolvedor.
+
+## 🌐 Onde me encontrar
+
+- GitHub: https://github.com/VytorKorea
+
+---
+
+⭐ Obrigado por visitar meu perfil!
